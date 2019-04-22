@@ -1,0 +1,29 @@
+<!doctype html Public "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">  
+<HTML>
+<head> 
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Your 1st Web Page</title>
+<styletype="text/css"
+<bodystyle="background-color:#E7E7FA">
+</style>
+ </head>
+<body>
+<Center>
+<h1>Kyle LeVell</h1>
+</Center>
+<ul>
+<li>Persistent</li>
+<li>Creative</li>
+<li>Loving</li>
+</ul>
+<div style="text-align:left">
+<h2><u>Education</u></h2>
+<p>The University of Georgia is where I attend college. I am pursuing a Management Information Systems degree in the Terry College of Business. I enjoy
+going to school here. The city is beautiful and the football team is very good.  
+</p> 
+<h3><u>Hobbies</u></h3>
+<p>Reading is one of my favorite things to do. I also love to learn about techonology and how it can improve to help the world.
+If it is very nice outside I like to go running and explore all of the places that are around me. A nice jog observing the sunrise
+is a great start to my day. 
+</p>
+</html>
